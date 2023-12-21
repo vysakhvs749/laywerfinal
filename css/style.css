@@ -2361,7 +2361,7 @@ div.faq-wrapper .panel-faq .panel-body {
 	}	
 /**** Map & Contact Form ****/
 .map-wrapper:before {
-  background: #80210a none repeat scroll 0 0;
+  background: #000 none repeat scroll 0 0;
   bottom: 0;
   content: "";
   left: 0;
